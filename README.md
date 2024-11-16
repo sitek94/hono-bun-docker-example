@@ -1,11 +1,13 @@
-To install dependencies:
-```sh
-bun install
-```
+# Hono + Bun + Docker Example
 
-To run:
 ```sh
+# Install dependencies
+bun install
+
+# Run
 bun run dev
 ```
 
-open http://localhost:3000
+- [Hono](https://hono.dev/)
+- [Bun](https://bun.sh/)
+- [Docker](https://www.docker.com/)
